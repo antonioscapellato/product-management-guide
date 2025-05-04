@@ -1,40 +1,43 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/pages/api-reference/create-next-app).
+# Product Management Guide
+### A Technical Guide for Technical People Switching to Product
 
-## Getting Started
+You’ve been deep in the code. Scaling systems, shipping features, solving tough problems with clean logic. But now you’re looking up and asking bigger questions:
+What should we build next?
+Why does it matter?
 
-First, run the development server:
+That’s where product management comes in.
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+This guide is for engineers, designers, data people — anyone technical — who’s starting to feel the pull toward product. Not because you’re done with tech, but because you want to be part of what gets built, not just how it gets built.
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+Product is messy. It’s less about clean solutions and more about customer problems, business tradeoffs, and figuring out what will actually move the needle. You’ll go from debugging code to debugging user behavior. From writing specs to shaping stories. From thinking in systems to thinking in outcomes.
 
-You can start editing the page by modifying `pages/index.tsx`. The page auto-updates as you edit the file.
+Here’s what you’ll get in this guide:
 
-[API routes](https://nextjs.org/docs/pages/building-your-application/routing/api-routes) can be accessed on [http://localhost:3000/api/hello](http://localhost:3000/api/hello). This endpoint can be edited in `pages/api/hello.ts`.
+How to shift your mindset from output to impact
 
-The `pages/api` directory is mapped to `/api/*`. Files in this directory are treated as [API routes](https://nextjs.org/docs/pages/building-your-application/routing/api-routes) instead of React pages.
+Ways to talk to users and actually hear what they need
 
-This project uses [`next/font`](https://nextjs.org/docs/pages/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+How to work with non-technical teams without sounding like a robot
 
-## Learn More
+Making tradeoffs between value, complexity, and speed
 
-To learn more about Next.js, take a look at the following resources:
+Writing roadmaps and specs that don’t get ignored
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn-pages-router) - an interactive Next.js tutorial.
+You’ve already got the hardest part: the builder’s brain. Now it’s about learning how to apply it differently — to real users, real problems, and real outcomes.
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+This is your jumpstart into product, minus the fluff.
+Let’s dive in.
 
-## Deploy on Vercel
+--- 
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+## Table of Contents
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/pages/building-your-application/deploying) for more details.
+- [Introduction to Product Management](#introduction)
+- [The Product Manager Role](#product-manager-role)
+- [From Code to Customer](#product-manager-role)
+- [The Product Manager's Toolkit](#product-manager-role)
+- [The Product Manager's Workflow](#product-manager-role)
+- [Building a Product](#product-manager-role)
+- [Building a Product Team](#product-manager-role)
+- [Building Product Teams](#product-manager-role)
+- [Conclusion](#conclusion)
