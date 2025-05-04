@@ -17,7 +17,7 @@ export default function Home() {
       <main className="">
         <div className="mt-36 mb-36 flex flex-col items-center justify-center">
         <h1 className="text-4xl font-bold">Product Management Guide</h1>
-        <h2 className="text-2xl">A Technical Guide for Technical People Switching to Product</h2>
+        <h2 className="mt-2 text-2xl">A Technical Guide for Technical People Switching to Product</h2>
         <p className="mt-12 text-lg font-light max-w-2xl">
           You’ve been deep in the code. Scaling systems, shipping features, solving tough problems with clean logic. But now you’re looking up and asking bigger questions:
           <br/>
