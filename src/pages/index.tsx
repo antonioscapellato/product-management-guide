@@ -3,6 +3,7 @@ import Head from "next/head";
 import Navbar from "../components/Navbar";
 import Footer from "../components/Footer";
 import Chapters from "../components/Chapters";
+import { Button } from "@heroui/react";
 
 export default function Home() {
   return (
