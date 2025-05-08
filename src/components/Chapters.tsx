@@ -8,8 +8,7 @@ const chapters = [
   { title: 'The Product Manager\'s Workflow', slug: 'product-workflow' },
   { title: 'Building a Product', slug: 'building-product' },
   { title: 'Building a Product Team', slug: 'building-team' },
-  { title: 'Building Product Teams', slug: 'building-teams' },
-  { title: 'Conclusion', slug: 'conclusion' }
+  { title: 'Conclusion & Resources', slug: 'conclusion' }
 ];
 
 export default function Chapters() {

@@ -1,4 +1,4 @@
-import Link from 'next/link';
+import { Link } from "@heroui/react";
 import { FaGithub, FaLinkedin } from "react-icons/fa6";
 
 export default function Navbar() {
@@ -7,27 +7,27 @@ export default function Navbar() {
       <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
         <div className="flex justify-between h-16">
           <div className="flex-shrink-0 flex items-center">
-            <Link href="/" className="text-xl">
+            <Link href="/" className="text-xl text-default-800">
               PM for Tech
             </Link>
           </div>
           <div className="flex items-center space-x-4">
-            <a
-              href="https://github.com/antonscap/product-management-guide"
-              target="_blank"
+            <Link
+              href="https://github.com/antonioscapellato/product-management-guide"
+              isExternal
               rel="noopener noreferrer"
               className="text-gray-600 hover:text-gray-900"
             >
               <FaGithub size={24} className="inline" />
-            </a>
-            <a
-              href="https://linkedin.com/in/antonscap"
-              target="_blank"
+            </Link>
+            <Link
+              href="https://www.linkedin.com/in/antonio-scapellato/"
+              isExternal
               rel="noopener noreferrer"
               className="text-gray-600 hover:text-gray-900"
             >
               <FaLinkedin size={24} className="inline" />
-            </a>
+            </Link>
           </div>
         </div>
       </div>
