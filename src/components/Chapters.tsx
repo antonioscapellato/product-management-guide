@@ -1,14 +1,22 @@
 import Link from 'next/link';
 
 const chapters = [
-  { title: 'Introduction to Product Management', slug: 'introduction' },
-  { title: 'The Product Manager Role', slug: 'product-manager-role' },
-  { title: 'From Code to Customer', slug: 'code-to-customer' },
-  { title: 'The Product Manager\'s Toolkit', slug: 'product-toolkit' },
-  { title: 'The Product Manager\'s Workflow', slug: 'product-workflow' },
-  { title: 'Building a Product', slug: 'building-product' },
-  { title: 'Building a Product Team', slug: 'building-team' },
-  { title: 'Conclusion & Resources', slug: 'conclusion' }
+  { title: 'Introduction to Product Management', slug: '01-introduction-to-product-manager' },
+  { title: 'Essential Marketing Concepts for Product Managers', slug: '02-essential-marketing-concept' },
+  { title: 'Customer Discovery and Research Methods', slug: '03-customer-discovery' },
+  { title: 'Product Vision and Strategy Development', slug: '04-product-vision-and-strategy' },
+  { title: 'Prioritization Frameworks and Decision Making', slug: '05-frameworks-and-decision-making' },
+  { title: 'Product Roadmapping and Planning', slug: '06-product-roadmap' },
+  { title: 'Agile Methodologies and Product Development', slug: '07-agile-methodologies' },
+  { title: 'Cross-Functional Collaboration and Communication', slug: '08-coss-functional-collaboration' },
+  { title: 'Metrics, Analytics, and Data-Driven Decision Making', slug: '09-metrics-analytics-data' },
+  { title: 'Growth Strategies and User Acquisition', slug: '10-growth-strategies' },
+  { title: 'Product Metrics and Success Frameworks', slug: '11-product-metrics' },
+  { title: 'Product Positioning and Launch Strategy', slug: '12-product-launch' },
+  { title: 'Stakeholder Management and Communication Skills', slug: '13-communication-skills' },
+  { title: 'Career Development and Personal Branding', slug: '14-career-development' },
+  { title: 'Product Design and Technical Skills', slug: '15-product-design' },
+  { title: 'Career Advancement and Continuous Learning', slug: '16-continuous-learning' }
 ];
 
 export default function Chapters() {
