@@ -1,4 +1,5 @@
-import Link from 'next/link';
+// HeroUI
+import { Button, Link } from '@heroui/react';
 
 const chapters = [
   { title: 'Introduction to Product Management', slug: '01-introduction-to-product-manager' },
@@ -22,19 +23,20 @@ const chapters = [
 export default function Chapters() {
   return (
     <div className="px-4 max-w-2xl mx-auto py-12">
-      <h2 className="text-2xl font-bold mb-8">Chapters</h2>
+      <h2 className="text-2xl font-bold mb-4">Chapters</h2>
       <div className="space-y-4">
         {chapters.map((chapter, index) => (
-          <Link
+          <Button
+            as={Link}
             key={chapter.slug}
             href={`/chapters/${chapter.slug}`}
-            className="block p-4 border border-gray-200 rounded-lg hover:bg-gray-50 transition-colors"
+            className={"w-full bg-transparent border border-default-50 py-8"}
           >
-            <div className="flex items-center">
-              <span className="text-gray-500 mr-4">{String(index + 1).padStart(2, '0')}</span>
-              <span className="font-medium">{chapter.title}</span>
+            <div className="w-full text-xl flex items-center text-left align-start justify-start">
+              <span className="text-default-600 mr-2">{String(index + 1).padStart(2, '0')}</span>
+              <span className="font-thin">{chapter.title}</span>
             </div>
-          </Link>
+          </Button>
         ))}
       </div>
     </div>
