@@ -19,7 +19,6 @@
 
 ![](https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif)
 
----
 
 ## 2. Structuring a PM Resume: Impact-Driven Bullet Points
 
@@ -41,7 +40,6 @@
 
 ![](https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif)
 
----
 
 ## 3. Personal Branding: LinkedIn, GitHub & Blogs
 
@@ -64,16 +62,9 @@
 > ![](https://media.giphy.com/media/l0HUpt2s9Pclgt9Vm/giphy.gif)
 > 
 
----
 
 ### Key Takeaways
 
 - **Case studies** demonstrate real-world PM skills—choose 2–3, structure with context, action, impact.
 - **Resume bullets** must be impact-driven, quantified, and easy to scan.
 - **Personal brand** amplifies your expertise—regular LinkedIn posts, GitHub projects, and blog content build credibility.
-
----
-
-**Next Class Preview:**
-
-Networking & interview prep—mastering PM interview frameworks (CIRCLES, STAR), mock product design & estimation exercises, and building your network in the PM community.

@@ -24,7 +24,6 @@
 
 ![](https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif)
 
----
 
 ## 2. Effective First 90 Days: Stakeholder Mapping, Quick Wins & Cadence Setting
 
@@ -54,7 +53,6 @@
 
 ![](https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif)
 
----
 
 ## 3. Continuous Learning: PM Communities, Certifications & Books
 
@@ -76,7 +74,6 @@
 
 ![](https://media.giphy.com/media/3o6ZsYk6XomQjEvSea/giphy.gif)
 
----
 
 ### Key Takeaways
 

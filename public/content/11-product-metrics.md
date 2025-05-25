@@ -24,7 +24,6 @@ so I can [desired outcome].
 
 ![](https://media.giphy.com/media/3oEjHP8ELRNNlnlLGM/giphy.gif)
 
----
 
 ## 2. HEART Framework for UX Metrics
 
@@ -48,7 +47,6 @@ Developed by Google to measure user experience across five dimensions:
 
 ![](https://media.giphy.com/media/l0HUpt2s9Pclgt9Vm/giphy.gif)
 
----
 
 ## 3. North Star Metric & Pirate Metrics (AARRR)
 
@@ -88,16 +86,9 @@ Developed by Google to measure user experience across five dimensions:
 
 ![](https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif)
 
----
 
 ### Key Takeaways
 
 - **JTBD** reveals true user motivations beyond demographics.
 - **HEART** aligns UX metrics to holistic product experience.
 - **NSM & AARRR** provide clear, actionable guides for product growth and measurement.
-
----
-
-**Next Class Preview:**
-
-Roadmapping deep dive—linking customer feedback to theme prioritization, release scheduling, and stakeholder storytelling.

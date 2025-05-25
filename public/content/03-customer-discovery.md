@@ -17,7 +17,6 @@
 
 ![](https://media.giphy.com/media/3o7aCVroyZqR7XBEiE/giphy.gif)
 
----
 
 ## 2. User Interviews, Surveys, and Ethnography
 
@@ -50,7 +49,6 @@
 
 ![](https://media.giphy.com/media/l0MYC0LajbaPoEADu/giphy.gif)
 
----
 
 ## 3. Defining Personas & User Journeys
 
@@ -87,7 +85,6 @@
 
 ![](https://media.giphy.com/media/5xtDarqlsEW8N1I5pKQ/giphy.gif)
 
----
 
 ### Key Takeaways
 

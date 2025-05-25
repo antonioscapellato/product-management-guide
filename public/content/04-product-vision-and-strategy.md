@@ -24,7 +24,6 @@ A vision statement paints the future you're striving to create—bold, inspiring
 
 ![](https://media.giphy.com/media/3ohzdIuqJoo8QdKlnW/giphy.gif)
 
----
 
 ## 2. Setting Strategic Goals (OKRs & KPIs)
 
@@ -63,7 +62,6 @@ A vision statement paints the future you're striving to create—bold, inspiring
 
 ![](https://media.giphy.com/media/l0HUpt2s9Pclgt9Vm/giphy.gif)
 
----
 
 ## 3. Competitive Analysis & Positioning
 
@@ -97,16 +95,9 @@ A vision statement paints the future you're striving to create—bold, inspiring
 
 ![](https://media.giphy.com/media/xT9IgG50Fb7Mi0prBC/giphy.gif)
 
----
 
 ### Key Takeaways
 
 - **Vision statements** inspire and align—keep them bold and user-centric.
 - **OKRs** drive focus with ambitious objectives plus measurable results; **KPIs** track ongoing health.
 - **Competitive analysis** uncovers gaps and strengths; **positioning** crisply communicates your unique value.
-
----
-
-**Next Class Preview:**
-
-Roadmapping techniques—how to balance short-term wins with long-term strategy, prioritization frameworks (RICE, MoSCoW), and stakeholder buy-in.

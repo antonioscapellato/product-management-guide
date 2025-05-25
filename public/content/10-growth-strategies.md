@@ -26,7 +26,6 @@
 
 ![](https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif)
 
----
 
 ## 2. Virality, Engagement & Retention Tactics
 
@@ -51,7 +50,6 @@
 
 ![](https://media.giphy.com/media/3o6ZsYk6XomQjEvSea/giphy.gif)
 
----
 
 ## 3. Monetization: Pricing, Upsells & Churn Reduction
 
@@ -90,16 +88,9 @@
 
 ![](https://media.giphy.com/media/xT9IgG50Fb7Mi0prBC/giphy.gif)
 
----
 
 ### Key Takeaways
 
 - **Funnels** optimize linear conversion; **loops** drive viral growth.
 - **Virality**, **engagement**, and **retention** tactics must work in concert for sustainable growth.
 - **Strategic pricing**, **targeted upsells**, and **proactive churn management** maximize revenue and customer lifetime value.
-
----
-
-**Next Class Preview:**
-
-Advanced growth experiments—multivariate testing, network effects analysis, and building quantitative growth models.

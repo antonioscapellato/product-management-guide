@@ -20,8 +20,6 @@ Different go-to-market contexts require different strategies, metrics, and produ
 
 ![](https://media.giphy.com/media/26ufdipQqU2lhNA4g/giphy.gif)
 
----
-
 ## 2. Business Models & Revenue Streams
 
 How you capture value from customers.
@@ -45,7 +43,6 @@ How you capture value from customers.
 
 ![](https://media.giphy.com/media/xT9IgG50Fb7Mi0prBC/giphy.gif)
 
----
 
 ## 3. Value Proposition & Business Case Basics
 
@@ -92,7 +89,6 @@ How you capture value from customers.
 
 ![](https://media.giphy.com/media/3o6ZtaO9BZHcOjmErm/giphy.gif)
 
----
 
 ### Key Takeaways
 

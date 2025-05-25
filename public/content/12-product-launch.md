@@ -46,7 +46,6 @@
 
 ![](https://media.giphy.com/media/xT9IgG50Fb7Mi0prBC/giphy.gif)
 
----
 
 ## 2. Launch Planning & Product Evangelism
 
@@ -76,7 +75,6 @@
 
 ![](https://media.giphy.com/media/l0HUpt2s9Pclgt9Vm/giphy.gif)
 
----
 
 ## 3. Channel Selection & Pricing Experiments
 
@@ -111,16 +109,9 @@
 
 ![](https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif)
 
----
 
 ### Key Takeaways
 
 - **4 Ps & VPC** clarify who you're targeting, the core message, and why you're different.
 - **Launch planning** is a coordinated, multi-phase effort with clear KPIs and training.
 - **Channel mix** and **pricing experiments** help you find the most efficient, scalable growth path.
-
----
-
-**Next Class Preview:**
-
-Post-launch optimization—feedback loops, feature iteration, and building a roadmap for continuous improvement.

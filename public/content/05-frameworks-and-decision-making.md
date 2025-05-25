@@ -15,7 +15,6 @@
 > ![](https://media.giphy.com/media/3o6ZsYk6XomQjEvSea/giphy.gif)
 > 
 
----
 
 ## 2. Opportunity Scoring & Cost–Benefit Analysis
 
@@ -53,7 +52,6 @@
 
 ![](https://media.giphy.com/media/26uTt19cxXQ5oX2ik/giphy.gif)
 
----
 
 ## 3. Building & Maintaining a Prioritization Matrix
 
@@ -75,16 +73,9 @@
 > ![](https://media.giphy.com/media/l0HUpt2s9Pclgt9Vm/giphy.gif)
 > 
 
----
 
 ### Key Takeaways
 
 - **Use the right scoring model** for your data availability and decision speed.
 - **Combine quantitative (RICE, ICE) with qualitative (MoSCoW, Kano)** for balanced prioritization.
 - **Maintain a living prioritization matrix**—revisit as your strategy and inputs evolve.
-
----
-
-**Next Class Preview:**
-
-Sprint planning & execution—writing effective user stories, managing backlog, running efficient stand-ups and retrospectives.

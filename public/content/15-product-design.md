@@ -18,7 +18,6 @@
 > - **Prioritize:** Top 5 by RICE (highest scores)
 > - **Roadmap:** Q3 "Real-time whiteboard," Q4 "Integrated video chat," Q1 next year "AI meeting summaries"
 
----
 
 ## 2. Strategy & Estimation
 
@@ -40,7 +39,6 @@
 > - **Target Share:** 1% → \$100M ARR
 > - **Users Needed:** \$100M / (\$60 ARPU) ≈ 1.66M paid seats
 
----
 
 ## 3. Technical Fluency
 
@@ -54,7 +52,6 @@
 > Given an e-commerce checkout API, sketch endpoints for cart, order, and payment, and call out key request/response fields.
 > 
 
----
 
 ## 4. Behavioral Questions: STAR Method
 
@@ -70,7 +67,6 @@
 > - **A:** Conducted user interviews, prioritized top-requested widgets, A/B tested two home screen layouts.
 > - **R:** Dashboard adoption rose to 55% (+175%) and MAU increased by 12%.
 
----
 
 ## 5. Live Case Drills & Sample Answers
 
@@ -82,7 +78,6 @@
     4. Tell me about a time you handled conflict…*(…and more)*
 - **Review Sample Answers:** Look for clear structure, data-backed reasoning, trade-off discussion.
 
----
 
 ## 6. Feedback Loops & Improvement Plans
 
@@ -97,7 +92,6 @@
 > ![](https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif)
 > 
 
----
 
 ### Key Takeaways
 
@@ -107,6 +101,3 @@
 - **Master STAR:** Practice until your stories flow naturally.
 - **Continuous improvement:** Use recorded drills, feedback, and tracked action plans to sharpen skills.
 
----
-
-**Congratulations!** You've completed the core PM lecture series. Next up: individualized coaching sessions and live case interview workshops.

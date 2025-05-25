@@ -21,7 +21,6 @@
 
 ![](https://media.giphy.com/media/l0K4nU4tBg0HMsy7y/giphy.gif)
 
----
 
 ## 2. Using Roadmaps to Align Stakeholders
 
@@ -41,7 +40,6 @@
 
 ![](https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif)
 
----
 
 ## 3. Roadmapping Tools
 
@@ -61,16 +59,9 @@
 
 ![](https://media.giphy.com/media/xT9IgG50Fb7Mi0prBC/giphy.gif)
 
----
 
 ### Key Takeaways
 
 - **Themes** guide strategy, **dates** set timeframes, **deliverables** drive execution.
 - **Roadmaps** are communication tools—tailor views to your audience.
 - **Choose tools** that fit your team size, workflow complexity, and feedback needs.
-
----
-
-**Next Class Preview:**
-
-Metrics & analytics—defining North Star metrics, setting up dashboards in Looker/Ga360, and running A/B experiments.

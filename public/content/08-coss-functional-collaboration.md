@@ -21,7 +21,6 @@
 
 ![](https://media.giphy.com/media/3o7TKtnuHOHHUjR38Y/giphy.gif)
 
----
 
 ## 2. Communication Cadences
 
@@ -40,7 +39,6 @@
 
 ![](https://media.giphy.com/media/l0MYzTrt1rM0X9xWw/giphy.gif)
 
----
 
 ## 3. Managing Risks, Dependencies & Blockers
 
@@ -70,16 +68,9 @@
 
 ![](https://media.giphy.com/media/l0HlPjezGYgfz0M3i/giphy.gif)
 
----
 
 ### Key Takeaways
 
 - **Deep partnerships** with eng, design, marketing, and sales amplify impact.
 - **Regular cadences** (stand-ups, demos, retros) keep everyone in sync.
 - **Proactive risk & blocker management** ensures smooth delivery and minimized surprises.
-
----
-
-**Next Class Preview:**
-
-Release & launch strategies—feature flags, beta programs, rollback plans, and post-launch analytics.

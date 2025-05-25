@@ -24,7 +24,6 @@
 
 ![](https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif)
 
----
 
 ## 2. Presentation Skills: Story-Telling with Data
 
@@ -53,7 +52,6 @@
 
 ![](https://media.giphy.com/media/xT9IgG50Fb7Mi0prBC/giphy.gif)
 
----
 
 ## 3. Negotiation & Conflict Resolution
 
@@ -87,16 +85,9 @@
 
 ![](https://media.giphy.com/media/3o6ZsYk6XomQjEvSea/giphy.gif)
 
----
 
 ### Key Takeaways
 
 - **Influence without authority** by building credibility, aligning asks to stakeholder goals, and enlisting internal champions.
 - **Story-telling with data** requires context, clarity, and a clear call to action.
 - **Negotiation & conflict resolution** hinge on preparation, empathy, and structured frameworks like BATNA.
-
----
-
-**Next Class Preview:**
-
-Building a culture of experimentation—scaling A/B tests, hypothesis backlog management, and integrating cross-team learnings into your roadmap.

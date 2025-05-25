@@ -16,8 +16,6 @@
 
 ![](https://media.giphy.com/media/26BRuo6sLetdllPAQ/giphy.gif)
 
----
-
 ## 2. A/B Testing & Experimentation
 
 1. **Hypothesis & Goal**
@@ -41,7 +39,6 @@
 
 ![](https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif)
 
----
 
 ## 3. Data-Driven Decision Making with Analytics Tools
 
@@ -61,16 +58,9 @@
 
 ![](https://media.giphy.com/media/xT9IgG50Fb7Mi0prBC/giphy.gif)
 
----
 
 ### Key Takeaways
 
 - **Choose the right metrics** (engagement, retention, satisfaction) to reflect your product goals.
 - **Experiment rigorously**—a clear hypothesis, proper randomization, and robust analysis are critical.
 - **Leverage analytics platforms** to track, visualize, and act on user behavior in real time.
-
----
-
-**Next Class Preview:**
-
-Feature launch strategies—feature flags, beta programs, staged rollouts, and post-launch monitoring dashboards.
