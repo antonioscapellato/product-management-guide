@@ -1,11 +1,11 @@
-//NextJS
+import React from 'react';
 import Head from "next/head";
 import Navbar from "../components/Navbar";
 import Footer from "../components/Footer";
 import Chapters from "../components/Chapters";
-import { Button } from "@heroui/react";
+import Hero from "../components/Hero";
 
-export default function Home() {
+const Home: React.FC = () => {
   return (
     <>
       <Head>
@@ -22,10 +22,10 @@ export default function Home() {
       <Navbar />
       
       <main className="min-h-screen">
-        <div className="mt-24 mb-16 flex flex-col items-center justify-center px-4 sm:px-6 lg:px-8">
-          <h1 className="text-4xl font-bold">Product Management Guide</h1>
-          <h2 className="mt-2 text-2xl">A Technical Guide for Technical People Switching to Product</h2>
-          <p className="mt-12 text-lg font-light max-w-2xl">
+        <Hero />
+        
+        <div className="max-w-4xl mx-auto px-4 sm:px-6 lg:px-8 py-16">
+          <p className="text-lg font-light">
             You've been deep in the code. Scaling systems, shipping features, solving tough problems with clean logic. But now you're looking up and asking bigger questions:
             <br/>
             What should we build next? 
@@ -67,4 +67,6 @@ export default function Home() {
       <Footer />
     </>
   );
-}
+};
+
+export default Home;

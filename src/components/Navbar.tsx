@@ -8,7 +8,7 @@ export default function Navbar() {
         <div className="flex justify-between h-16">
           <div className="flex-shrink-0 flex items-center">
             <Link href="/" className="text-xl text-default-800">
-              PM for Tech
+              Product Mastery
             </Link>
           </div>
           <div className="flex items-center space-x-4">
