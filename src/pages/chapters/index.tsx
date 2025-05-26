@@ -5,61 +5,77 @@ import React from 'react';
 // Components
 import Navbar from '@/components/Navbar';
 import Footer from '@/components/Footer';
+import Chapters from '@/components/Chapters';
+import Hero from '@/components/Hero';
 
-// Import the chapter data from [slug].tsx
-const chapterTitles = {
-  '01-introduction-to-product-manager': 'Introduction to Product Management',
-  '02-essential-marketing-concept': 'Essential Marketing Concepts for Product Managers',
-  '03-customer-discovery': 'Customer Discovery and Research Methods',
-  '04-product-vision-and-strategy': 'Product Vision and Strategy Development',
-  '05-frameworks-and-decision-making': 'Prioritization Frameworks and Decision Making',
-  '06-product-roadmap': 'Product Roadmapping and Planning',
-  '07-agile-methodologies': 'Agile Methodologies and Product Development',
-  '08-coss-functional-collaboration': 'Cross-Functional Collaboration and Communication',
-  '09-metrics-analytics-data': 'Metrics, Analytics, and Data-Driven Decision Making',
-  '10-growth-strategies': 'Growth Strategies and User Acquisition',
-  '11-product-metrics': 'Product Metrics and Success Frameworks',
-  '12-product-launch': 'Product Positioning and Launch Strategy',
-  '13-communication-skills': 'Stakeholder Management and Communication Skills',
-  '14-career-development': 'Career Development and Personal Branding',
-  '15-product-design': 'Product Design and Technical Skills',
-  '16-continuous-learning': 'Career Advancement and Continuous Learning'
+const seoData = {
+  title: "All Chapters - Product Mastery Guide",
+  description: "Browse all chapters of the Product Mastery guide. Learn product management from foundations to advanced topics including strategy, execution, growth, and career development.",
+  keywords: "product management chapters, product management guide, product management topics, product management learning, product management curriculum, product management course, product management education",
+  viewport: "width=device-width, initial-scale=1",
+  robots: "index, follow",
+  canonical: "https://productmastery.com/chapters",
+  ogTitle: "All Chapters - Product Mastery Guide",
+  ogDescription: "Browse all chapters of the Product Mastery guide. Learn product management from foundations to advanced topics including strategy, execution, growth, and career development.",
+  ogType: "website",
+  ogUrl: "https://productmastery.com/chapters",
+  ogImage: "https://productmastery.com/og-image.jpg",
+  ogSiteName: "Product Mastery",
+  ogLocale: "en_US",
+  twitterCard: "summary_large_image",
+  twitterTitle: "All Chapters - Product Mastery Guide",
+  twitterDescription: "Browse all chapters of the Product Mastery guide. Learn product management from foundations to advanced topics including strategy, execution, growth, and career development.",
+  twitterImage: "https://productmastery.com/twitter-image.jpg",
+  twitterCreator: "@productmastery"
 };
 
 export default function ChaptersIndex() {
   return (
     <>
       <Head>
-        <title>Product Management Guide - All Chapters</title>
-        <meta name="description" content="Complete guide to product management - Browse all chapters" />
+        <title>{seoData.title}</title>
+        <meta name="description" content={seoData.description} />
+        <meta name="keywords" content={seoData.keywords} />
+        <meta name="viewport" content={seoData.viewport} />
+        <meta name="robots" content={seoData.robots} />
+        
+        {/* Canonical URL */}
+        <link rel="canonical" href={seoData.canonical} />
+        
+        {/* Open Graph */}
+        <meta property="og:title" content={seoData.ogTitle} />
+        <meta property="og:description" content={seoData.ogDescription} />
+        <meta property="og:type" content={seoData.ogType} />
+        <meta property="og:url" content={seoData.ogUrl} />
+        <meta property="og:image" content={seoData.ogImage} />
+        <meta property="og:site_name" content={seoData.ogSiteName} />
+        <meta property="og:locale" content={seoData.ogLocale} />
+        
+        {/* Twitter Card */}
+        <meta name="twitter:card" content={seoData.twitterCard} />
+        <meta name="twitter:title" content={seoData.twitterTitle} />
+        <meta name="twitter:description" content={seoData.twitterDescription} />
+        <meta name="twitter:image" content={seoData.twitterImage} />
+        <meta name="twitter:creator" content={seoData.twitterCreator} />
       </Head>
 
       <Navbar />
       
-      <main className="min-h-screen pt-24 pb-16">
-        <div className="max-w-4xl mx-auto px-4 sm:px-6 lg:px-8">
-          <h1 className="text-4xl font-bold mb-8">Product Management Guide</h1>
-          
-          <div className="grid gap-6">
-            {Object.entries(chapterTitles).map(([slug, title], index) => (
-              <Link 
-                href={`/chapters/${slug}`}
-                key={slug}
-                className="block p-6 bg-white rounded-lg shadow-sm hover:shadow-md transition-shadow duration-200"
-              >
-                <div className="flex items-start">
-                  <span className="text-gray-500 font-medium mr-4">{String(index + 1).padStart(2, '0')}</span>
-                  <div>
-                    <h2 className="text-xl font-semibold text-gray-900 mb-2">{title}</h2>
-                    <p className="text-gray-600">Click to read this chapter</p>
-                  </div>
-                </div>
-              </Link>
-            ))}
-          </div>
-        </div>
+      <main className="w-full flex flex-col items-center align-center justify-center min-h-screen pt-24 pb-16">
         
+        <div className={"flex flex-col w-full max-w-7xl pl-4 space-y-2"}>
+          <h1 className={"text-6xl text-default-900"}>Chapters</h1>
+          <h2 className={"text-xl text-default-600 font-light"}>
+            Product Mastery by <Link href="https://scapellato.dev" className="text-blue-400">Antonio Scapellato</Link>
+          </h2>
+        </div>
+
+        <Chapters />
+
+        <Hero />
+
         <Footer />
+
       </main>
     </>
   );

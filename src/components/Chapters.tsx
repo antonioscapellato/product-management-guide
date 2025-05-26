@@ -134,18 +134,17 @@ export default function Chapters() {
             className={`space-y-6 p-6 rounded-lg shadow-xl ${
               categoryIndex === 0 ? 'bg-gradient-to-br from-indigo-900 to-indigo-800 shadow-indigo-900/40' :
               categoryIndex === 1 ? 'bg-gradient-to-br from-indigo-800 to-indigo-700 shadow-indigo-800/40' :
-              categoryIndex === 2 ? 'bg-gradient-to-br from-violet-700 to-violet-600 shadow-violet-700/40' : 
-              'bg-gradient-to-br from-purple-600 to-purple-500 shadow-purple-600/40'
+              categoryIndex === 2 ? 'bg-gradient-to-br from-violet-700 to-violet-600 shadow-violet-700/40' : 'bg-gradient-to-br from-purple-600 to-purple-500 shadow-purple-600/40'
             }`}
           >
             <h3 className="text-2xl text-white pl-2">{category.title}</h3>
-            <div className="grid grid-cols-2 md:grid-cols-4 gap-x-4 gap-y-6">
+            <div className="grid grid-cols-1 md:grid-cols-4 gap-x-4 gap-y-6">
               {category.chapters.map((chapter, index) => (
                 <Button
                   as={Link}
                   key={chapter.slug}
                   href={`/chapters/${chapter.slug}`}
-                  className="w-full h-96 md:h-64 bg-white/10 hover:bg-white/20 border border-white/20 px-4 py-4 overflow-hidden text-left backdrop-blur-sm"
+                  className="w-full h-64 md:h-64 bg-white/10 hover:bg-white/20 border border-white/20 px-4 py-4 overflow-hidden text-left backdrop-blur-sm"
                 >
                   <div className="w-full h-full flex flex-col items-start justify-start overflow-hidden">
                     <span className="text-4xl text-white/80 mb-3">

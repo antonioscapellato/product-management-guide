@@ -55,6 +55,25 @@ const chapterTitles = {
   '16-continuous-learning': 'Career Advancement and Continuous Learning'
 };
 
+const chapterCategories = {
+  '01-introduction-to-product-manager': 'Foundations',
+  '02-essential-marketing-concept': 'Foundations',
+  '03-customer-discovery': 'Foundations',
+  '04-product-vision-and-strategy': 'Foundations',
+  '05-frameworks-and-decision-making': 'Execution',
+  '06-product-roadmap': 'Execution',
+  '07-agile-methodologies': 'Execution',
+  '08-coss-functional-collaboration': 'Execution',
+  '09-metrics-analytics-data': 'Growth & Analytics',
+  '10-growth-strategies': 'Growth & Analytics',
+  '11-product-metrics': 'Growth & Analytics',
+  '12-product-launch': 'Growth & Analytics',
+  '13-communication-skills': 'Career Development',
+  '14-career-development': 'Career Development',
+  '15-product-design': 'Career Development',
+  '16-continuous-learning': 'Career Development'
+};
+
 interface CodeProps {
   inline?: boolean;
   className?: string;
@@ -150,22 +169,75 @@ export default function Chapter() {
   
   const chapterPath = chapterComponents[slug as keyof typeof chapterComponents];
   const title = chapterTitles[slug as keyof typeof chapterTitles];
+  const category = chapterCategories[slug as keyof typeof chapterCategories];
 
   if (!chapterPath) {
     return <div>Chapter not found</div>;
   }
 
+  const seoData = {
+    title: `${title} - Product Mastery`,
+    description: `Learn about ${title.toLowerCase()} in this comprehensive chapter of the Product Mastery guide. Essential knowledge for product managers and technical professionals.`,
+    keywords: `product management, ${title.toLowerCase()}, product strategy, product development, ${category.toLowerCase()}, product management guide`,
+    viewport: "width=device-width, initial-scale=1",
+    robots: "index, follow",
+    canonical: `https://productmastery.com/chapters/${slug}`,
+    ogTitle: `${title} - Product Mastery`,
+    ogDescription: `Learn about ${title.toLowerCase()} in this comprehensive chapter of the Product Mastery guide. Essential knowledge for product managers and technical professionals.`,
+    ogType: "article",
+    ogUrl: `https://productmastery.com/chapters/${slug}`,
+    ogImage: "https://productmastery.com/og-image.jpg",
+    ogSiteName: "Product Mastery",
+    ogLocale: "en_US",
+    twitterCard: "summary_large_image",
+    twitterTitle: `${title} - Product Mastery`,
+    twitterDescription: `Learn about ${title.toLowerCase()} in this comprehensive chapter of the Product Mastery guide. Essential knowledge for product managers and technical professionals.`,
+    twitterImage: "https://productmastery.com/twitter-image.jpg",
+    twitterCreator: "@productmastery"
+  };
+
   return (
     <>
       <Head>
-        <title>{title} - Product Management Guide</title>
-        <meta name="description" content={`${title} - Product Management Guide`} />
+        <title>{seoData.title}</title>
+        <meta name="description" content={seoData.description} />
+        <meta name="keywords" content={seoData.keywords} />
+        <meta name="viewport" content={seoData.viewport} />
+        <meta name="robots" content={seoData.robots} />
+        
+        {/* Canonical URL */}
+        <link rel="canonical" href={seoData.canonical} />
+        
+        {/* Open Graph */}
+        <meta property="og:title" content={seoData.ogTitle} />
+        <meta property="og:description" content={seoData.ogDescription} />
+        <meta property="og:type" content={seoData.ogType} />
+        <meta property="og:url" content={seoData.ogUrl} />
+        <meta property="og:image" content={seoData.ogImage} />
+        <meta property="og:site_name" content={seoData.ogSiteName} />
+        <meta property="og:locale" content={seoData.ogLocale} />
+        
+        {/* Twitter Card */}
+        <meta name="twitter:card" content={seoData.twitterCard} />
+        <meta name="twitter:title" content={seoData.twitterTitle} />
+        <meta name="twitter:description" content={seoData.twitterDescription} />
+        <meta name="twitter:image" content={seoData.twitterImage} />
+        <meta name="twitter:creator" content={seoData.twitterCreator} />
       </Head>
 
       <Navbar />
       
       <main className="min-h-screen pt-24 pb-16">
         <div className="max-w-4xl mx-auto px-4 sm:px-6 lg:px-8">
+          {category && (
+            <div className={`mb-8 p-4 rounded-lg dark:shadow-xl ${
+              category === 'Foundations' ? 'bg-gradient-to-r from-indigo-700 to-indigo-600 dark:shadow-indigo-900/40' :
+              category === 'Execution' ? 'bg-gradient-to-r from-indigo-600 to-indigo-500 dark:shadow-indigo-600/40' :
+              category === 'Growth & Analytics' ? 'bg-gradient-to-r from-violet-700 to-violet-600 dark:shadow-violet-900/40' : 'bg-gradient-to-r from-purple-600 to-purple-500 dark:shadow-violet-600/40'
+            }`}>
+              <h2 className="text-2xl text-white font-light">{category}</h2>
+            </div>
+          )}
           <div className="prose max-w-none">
             <Suspense fallback={
               <div className="flex justify-center items-center min-h-[200px]">
