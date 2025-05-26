@@ -30,7 +30,7 @@ const Hero: React.FC = () => {
 
             <div className="mt-16 grid grid-cols-1 gap-8 sm:grid-cols-2 lg:grid-cols-3">
                 
-                <div className="h-96 relative p-6 rounded-lg overflow-hidden flex flex-col justify-end">
+                <div className="h-96 relative p-6 shadow-xl shadow-indigo-500/20 rounded-2xl overflow-hidden flex flex-col justify-end">
                     <div className="absolute inset-0">
                         <Image
                             src="/business.png"
@@ -43,11 +43,12 @@ const Hero: React.FC = () => {
                         <p className="text-left mt-2 text-white/90">Master market analysis, business strategy, and metrics to drive product success and growth</p>
                     </div>
                 </div>
-                <div className="h-96 relative p-6 rounded-lg overflow-hidden flex flex-col justify-end">
-                <div className="absolute inset-0">
+                <div className="h-96 relative p-6 shadow-xl shadow-default-200/20 rounded-2xl overflow-hidden flex flex-col justify-end">
+                <div className="absolute inset-0 bg-transparent">
                     <Image
                         src="/technology.png"
                         alt="Technology icon"
+                        radius={"lg"}
                         className="object-cover"
                     />
                 </div>
@@ -56,7 +57,7 @@ const Hero: React.FC = () => {
                     <p className="text-left mt-2 text-white/90">Bridge the gap between business and engineering with effective technical decision-making</p>
                 </div>
                 </div>
-                <div className="h-96 relative p-6 overflow-hidden flex flex-col justify-end">
+                <div className="h-96 relative p-6 shadow-xl shadow-violet-500/20 rounded-2xl overflow-hidden flex flex-col justify-end">
                 <div className="absolute inset-0">
                     <Image
                         src="/design.png"

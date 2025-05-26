@@ -4,64 +4,79 @@ import Navbar from "../components/Navbar";
 import Footer from "../components/Footer";
 import Chapters from "../components/Chapters";
 import Hero from "../components/Hero";
+import About from "../components/About";
+
+const seoData = {
+  title: "Product Mastery - Product Zero to Hero a Product Management Guide for Technical People",
+  description: "A comprehensive guide for product management best practices and methodologies. Learn product management from scratch, technical product management, agile methodologies, and product development strategies.",
+  keywords: "product management, technical product management, product development, agile methodology, product strategy, product roadmap, product lifecycle, product metrics, product analytics, product leadership, product planning, product execution, product optimization, product innovation, product market fit, product discovery, product delivery, product launch, product scaling, product management guide, product management for technical people, product management best practices",
+  viewport: "width=device-width, initial-scale=1",
+  robots: "index, follow",
+  canonical: "https://productmastery.com",
+  ogTitle: "Product Mastery - Product Zero to Hero a Product Management Guide for Technical People",
+  ogDescription: "A comprehensive guide for product management best practices and methodologies. Learn product management from scratch, technical product management, agile methodologies, and product development strategies.",
+  ogType: "website",
+  ogUrl: "https://productmastery.com",
+  ogImage: "https://productmastery.com/og-image.jpg",
+  ogSiteName: "Product Mastery",
+  ogLocale: "en_US",
+  twitterCard: "summary_large_image",
+  twitterTitle: "Product Mastery - Product Zero to Hero a Product Management Guide for Technical People",
+  twitterDescription: "A comprehensive guide for product management best practices and methodologies. Learn product management from scratch, technical product management, agile methodologies, and product development strategies.",
+  twitterImage: "https://productmastery.com/twitter-image.jpg",
+  twitterCreator: "@productmastery",
+  favicon: "/favicon.ico",
+  author: "Product Mastery Team",
+  language: "en",
+  themeColor: "#ffffff",
+  appleTouchIcon: "/apple-touch-icon.png",
+  manifest: "/site.webmanifest"
+};
 
 const Home: React.FC = () => {
   return (
     <>
       <Head>
-        <title>Product Management Guide</title>
-        <meta name="description" content="A comprehensive guide for product management best practices and methodologies" />
-        <meta name="viewport" content="width=device-width, initial-scale=1" />
-        <meta name="robots" content="index, follow" />
-        <meta property="og:title" content="Product Management Guide" />
-        <meta property="og:description" content="A comprehensive guide for product management best practices and methodologies" />
-        <meta property="og:type" content="website" />
-        <link rel="icon" href="/favicon.ico" />
+        <title>{seoData.title}</title>
+        <meta name="description" content={seoData.description} />
+        <meta name="keywords" content={seoData.keywords} />
+        <meta name="viewport" content={seoData.viewport} />
+        <meta name="robots" content={seoData.robots} />
+        <meta name="author" content={seoData.author} />
+        <meta name="language" content={seoData.language} />
+        <meta name="theme-color" content={seoData.themeColor} />
+        
+        {/* Canonical URL */}
+        <link rel="canonical" href={seoData.canonical} />
+        
+        {/* Open Graph */}
+        <meta property="og:title" content={seoData.ogTitle} />
+        <meta property="og:description" content={seoData.ogDescription} />
+        <meta property="og:type" content={seoData.ogType} />
+        <meta property="og:url" content={seoData.ogUrl} />
+        <meta property="og:image" content={seoData.ogImage} />
+        <meta property="og:site_name" content={seoData.ogSiteName} />
+        <meta property="og:locale" content={seoData.ogLocale} />
+        
+        {/* Twitter Card */}
+        <meta name="twitter:card" content={seoData.twitterCard} />
+        <meta name="twitter:title" content={seoData.twitterTitle} />
+        <meta name="twitter:description" content={seoData.twitterDescription} />
+        <meta name="twitter:image" content={seoData.twitterImage} />
+        <meta name="twitter:creator" content={seoData.twitterCreator} />
+        
+        {/* Favicon and App Icons */}
+        <link rel="icon" href={seoData.favicon} />
+        <link rel="apple-touch-icon" href={seoData.appleTouchIcon} />
+        <link rel="manifest" href={seoData.manifest} />
       </Head>
 
       <Navbar />
       
       <main className="min-h-screen">
         <Hero />
-        
-        <div className="max-w-4xl mx-auto px-4 sm:px-6 lg:px-8 py-16">
-          <p className="text-lg font-light">
-            You've been deep in the code. Scaling systems, shipping features, solving tough problems with clean logic. But now you're looking up and asking bigger questions:
-            <br/>
-            What should we build next? 
-            <br/>
-            Why does it matter? 
-            <br/><br/>
-
-            That's where product management comes in. 
-            <br/><br/>
-
-            This guide is for engineers, designers, data people — anyone technical — who's starting to feel the pull toward product. Not because you're done with tech, but because you want to be part of what gets built, not just how it gets built.
-            <br/><br/>
-
-            Product is messy. It's less about clean solutions and more about customer problems, business tradeoffs, and figuring out what will actually move the needle. You'll go from debugging code to debugging user behavior. From writing specs to shaping stories. From thinking in systems to thinking in outcomes.
-            <br/><br/>
-            Here's what you'll get in this guide:
-            <br/><br/>
-            How to shift your mindset from output to impact
-            <br/><br/>
-            Ways to talk to users and actually hear what they need
-            <br/><br/>
-            How to work with non-technical teams without sounding like a robot
-            <br/><br/>
-            Making tradeoffs between value, complexity, and speed
-            <br/><br/>
-            Writing roadmaps and specs that don't get ignored
-            <br/><br/>
-            You've already got the hardest part: the builder's brain. Now it's about learning how to apply it differently — to real users, real problems, and real outcomes.
-            <br/><br/>
-            This is your jumpstart into product, minus the fluff.
-            <br/><br/>
-            Let's dive in.        
-          </p>
-        </div>
-
         <Chapters />
+        <About />
       </main>
 
       <Footer />
