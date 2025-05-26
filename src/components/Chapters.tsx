@@ -106,9 +106,16 @@ const categories = [
 
 export default function Chapters() {
   return (
-    <div className="px-4 max-w-7xl mx-auto pt-12 pb-12">
+    <div className="px-4 max-w-7xl mx-auto pt-16 pb-12">
       <div className="mb-12">
         <div className="flex flex-wrap gap-4">
+            <Button 
+              key={"Product Mastery"} 
+              className="px-8 bg-transparent border border-default-100 font-extralight text-lg text-default-600"
+              radius={"full"}
+            >
+              Product Mastery
+            </Button>
           {categories.map((category, index) => (
             <Button 
               key={category.title} 

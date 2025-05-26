@@ -1,7 +1,8 @@
 # Product Mastery
+
 ## A Comprehensive Guide to Product Management Excellence
 
-![Product Mastery](./public/product.png)
+![Product Mastery](./screenshot.png)
 
 Product Mastery is your definitive guide to becoming an exceptional product manager. This comprehensive resource covers everything from fundamental concepts to advanced strategies, designed to help you excel in your product management career.
 
