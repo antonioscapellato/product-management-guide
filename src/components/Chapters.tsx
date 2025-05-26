@@ -113,7 +113,7 @@ export default function Chapters() {
           {categories.map((category, index) => (
             <Button 
               key={category.title} 
-              className="px-8 bg-transparent border border-default-100 font-extralight text-lg text-default-500"
+              className="px-8 bg-transparent border border-default-100 font-extralight text-lg text-default-600"
               radius={"full"}
             >
               {category.title}
