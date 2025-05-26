@@ -18,9 +18,9 @@ const Hero: React.FC = () => {
                 />
             </div>
 
-            <h1 className="tracking-tight font-medium text-default-900 text-4xl md:text-6xl">
-                <span className="block">Product Mastery</span>
-                <span className="block font-light text-2xl md:text-3xl mt-2">Building Products People Love.</span>
+            <h1 className="tracking-tight font-medium text-default-900">
+                <span className="block text-5xl md:text-8xl">Product Mastery</span>
+                <span className="mt-2 block font-light text-2xl md:text-3xl">Building Products People Love.</span>
             </h1>
             
             <p className="mt-6 max-w-2xl mx-auto text-xl text-default-500">
