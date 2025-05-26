@@ -64,10 +64,10 @@ const AboutPage: React.FC = () => {
         {/* Hero Section */}
         <section className="py-20">
           <div className="container mx-auto px-4">
-            <h1 className="text-4xl md:text-5xl font-medium text-default-900 mb-6 text-center">
-              About Product Mastery
+            <h1 className="text-6xl md:text-8xl font-medium text-default-900 mb-6 text-center">
+                Meet Product Mastery
             </h1>
-            <p className="text-xl text-default-600 max-w-3xl mx-auto text-center">
+            <p className="text-xl font-thin md:text-4xl text-default-600 max-w-3xl mx-auto text-center">
                 Helping techies rock the product world            
             </p>
           </div>
