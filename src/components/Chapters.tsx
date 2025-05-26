@@ -107,7 +107,20 @@ const categories = [
 export default function Chapters() {
   return (
     <div className="px-4 max-w-7xl mx-auto py-12">
-      <h2 className="text-4xl font-medium mb-8">Product Mastery</h2>
+      <h2 className="text-4xl md:text-6xl font-light mb-8">Product Mastery</h2>
+      <div className="mb-12">
+        <div className="flex flex-wrap gap-4">
+          {categories.map((category, index) => (
+            <Button 
+              key={category.title} 
+              className="px-8 bg-transparent border border-default-100 font-extralight text-lg text-default-500"
+              radius={"full"}
+            >
+              {category.title}
+            </Button>
+          ))}
+        </div>
+      </div>
       <div className="space-y-12">
         {categories.map((category, categoryIndex) => (
           <div 
