@@ -5,13 +5,13 @@ import { ThemeSwitcher } from "./ThemeSwitcher";
 export default function Navbar() {
   return (
     <nav className="top-0 left-0 right-0 bg-white/80 dark:bg-black/80 z-50">
-      <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
+      <div className="max-w-7xl mx-auto px-2 sm:px-6 lg:px-8">
         <div className="flex justify-between h-16">
           <div className="flex-shrink-0 flex items-center">
             <Button 
               as={Link} 
               href="/" 
-              className="bg-transparent py-4 text-xl text-default-800"
+              className="bg-transparent font-light py-4 text-xl text-default-800"
               startContent={
                 <Avatar
                   src={"/product.png"}
@@ -22,6 +22,22 @@ export default function Navbar() {
             >
               Product Mastery
             </Button>
+            <div className="hidden md:block">
+              <Button 
+                as={Link} 
+                href="/chapters" 
+                className="bg-transparent py-4 font-light text-xl text-default-600"
+              >
+                Chapters
+              </Button>
+              <Button 
+                as={Link} 
+                href="/about" 
+                className="bg-transparent py-4 font-light text-xl text-default-600"
+              >
+                About
+              </Button>
+              </div>
           </div>
           <div className="flex items-center">
             <Button

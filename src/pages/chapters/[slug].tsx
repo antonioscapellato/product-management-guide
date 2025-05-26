@@ -9,6 +9,8 @@ import React, { Suspense, useState, useEffect } from 'react';
 // Components
 import Navbar from '@/components/Navbar';
 import Footer from '@/components/Footer';
+import Chapters from '@/components/Chapters';
+import Hero from '@/components/Hero';
 
 // Define the type for our chapter map
 interface ChapterMap {
@@ -174,9 +176,13 @@ export default function Chapter() {
             </Suspense>
           </div>
         </div>
-      </main>
+        
+        <Chapters />
 
-      <Footer />
+        <Hero />
+        
+        <Footer />
+      </main>
     </>
   );
 }
