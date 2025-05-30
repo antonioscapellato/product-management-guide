@@ -185,14 +185,14 @@ export default function Chapter() {
     ogTitle: `${title} - Product Mastery`,
     ogDescription: `Learn about ${title.toLowerCase()} in this comprehensive chapter of the Product Mastery guide. Essential knowledge for product managers and technical professionals.`,
     ogType: "article",
-    ogUrl: `https://productmastery.com/chapters/${slug}`,
-    ogImage: "https://productmastery.com/og-image.jpg",
+    ogUrl: `https://pm.scapellato.dev/chapters/${slug}`,
+    ogImage: "https://pm.scapellato.dev/logo.png",
     ogSiteName: "Product Mastery",
     ogLocale: "en_US",
     twitterCard: "summary_large_image",
     twitterTitle: `${title} - Product Mastery`,
     twitterDescription: `Learn about ${title.toLowerCase()} in this comprehensive chapter of the Product Mastery guide. Essential knowledge for product managers and technical professionals.`,
-    twitterImage: "https://productmastery.com/twitter-image.jpg",
+    twitterImage: "https://pm.scapellato.dev/logo.png",
     twitterCreator: "@productmastery"
   };
 

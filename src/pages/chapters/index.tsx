@@ -14,18 +14,18 @@ const seoData = {
   keywords: "product management chapters, product management guide, product management topics, product management learning, product management curriculum, product management course, product management education",
   viewport: "width=device-width, initial-scale=1",
   robots: "index, follow",
-  canonical: "https://productmastery.com/chapters",
+  canonical: "https://pm.scapellato.dev/chapters",
   ogTitle: "All Chapters - Product Mastery Guide",
   ogDescription: "Browse all chapters of the Product Mastery guide. Learn product management from foundations to advanced topics including strategy, execution, growth, and career development.",
   ogType: "website",
-  ogUrl: "https://productmastery.com/chapters",
-  ogImage: "https://productmastery.com/og-image.jpg",
+  ogUrl: "https://pm.scapellato.dev/chapters",
+  ogImage: "https://pm.scapellato.dev/logo.png",
   ogSiteName: "Product Mastery",
   ogLocale: "en_US",
   twitterCard: "summary_large_image",
   twitterTitle: "All Chapters - Product Mastery Guide",
   twitterDescription: "Browse all chapters of the Product Mastery guide. Learn product management from foundations to advanced topics including strategy, execution, growth, and career development.",
-  twitterImage: "https://productmastery.com/twitter-image.jpg",
+  twitterImage: "https://pm.scapellato.dev/logo.png",
   twitterCreator: "@productmastery"
 };
 
