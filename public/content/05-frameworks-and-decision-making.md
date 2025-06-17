@@ -9,11 +9,8 @@
 | **Kano** | Categorizes features as **Basic**, **Performance**, **Delighters** | Understanding customer delight vs. necessity | Basic: login; Performance: search speed; Delighter: 3D animations |
 | **ICE** | **Impact** × **Confidence** × **Ease** | Fast, lightweight scoring with fewer inputs | I: 5 (high) × C: 70% × E: 4 (easy) = 1 400 |
 
-> GIF Example:
-> 
-> 
-> ![](https://media.giphy.com/media/3o6ZsYk6XomQjEvSea/giphy.gif)
-> 
+
+![Analytical mindset](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdjRiYWhvZmttN2kxdmE3NTg3NHkwd2c2Z2NmeHVhd3RkM25kaDhtNCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/RnKGZ8Z7MIOFvmLlq2/giphy.gif)
 
 
 ## 2. Opportunity Scoring & Cost–Benefit Analysis
@@ -50,7 +47,7 @@
 >     - ROI: (150 – 90) ÷ 90 = 67% in Year 1
 >     - Payback: ~8 months
 
-![](https://media.giphy.com/media/26uTt19cxXQ5oX2ik/giphy.gif)
+![Investment vs returns](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbnk2dDNjdXVneW5ycno1dDVlc3B6YmgydmtvbnlycDhlc2lwZ2hrbyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/rPSNdpD0R0qwWhSvwd/giphy.gif)
 
 
 ## 3. Building & Maintaining a Prioritization Matrix
@@ -67,11 +64,8 @@
     - Update for shifting strategy or resource changes.
 5. **Communicate & Align:** Share matrix with stakeholders; adjust based on business priorities.
 
-> Example Diagram:
-> 
-> 
-> ![](https://media.giphy.com/media/l0HUpt2s9Pclgt9Vm/giphy.gif)
-> 
+
+![Collaboration and teamwork](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOHk3NG9kcmkxNjRjNG9uMW10dWNkdnozbDZoeGEzd2Nha2JuZTdqZiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/kFKkvrLj5rtnu7HQrM/giphy.gif)
 
 
 ### Key Takeaways

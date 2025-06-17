@@ -93,7 +93,7 @@ A vision statement paints the future you're striving to create—bold, inspiring
 > "For teams that need fast, organized communication, Slack is the collaboration hub that brings all your conversations and tools into one place—because it integrates with 2,000+ apps and surfaces the right context when you need it."
 > 
 
-![](https://media.giphy.com/media/xT9IgG50Fb7Mi0prBC/giphy.gif)
+![Unique positioning](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbm01amIzMzR0bWlpejF6dWF1Y3psNHc1ZnM1bGZudzloa2V5bmhzaCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/QWX4CSDyx1VELvO5lm/giphy.gif)
 
 
 ### Key Takeaways

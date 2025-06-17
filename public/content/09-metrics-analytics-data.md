@@ -14,7 +14,7 @@
 > A mobile game team targets Day 1 retention of 50% and an NPS of +40 after the first tournament launch.
 > 
 
-![](https://media.giphy.com/media/26BRuo6sLetdllPAQ/giphy.gif)
+![Performance](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYWJ6Mno2bjBqdjlqb2psZnljY2doN2ZhNW8zaWNlaGhodGJnNTQ5dCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/CTBcE6ZXlDrt469j37/giphy.gif)
 
 ## 2. A/B Testing & Experimentation
 
@@ -37,7 +37,7 @@
 > [Booking.com](http://booking.com/) ran >1,000 A/B tests per year. A simple button color test yielded a 0.5% lift in bookings (millions in incremental revenue).
 > 
 
-![](https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif)
+![AB Testing](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNmw0YXJjZml5bWUyODBpbXVqa29weTZlMzY4MWgxZjFyaHA1Y2J3aSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/kM939eyFdZAIstgfp2/giphy.gif)
 
 
 ## 3. Data-Driven Decision Making with Analytics Tools
@@ -56,7 +56,7 @@
 > 3. **Run Feature Flags** via PostHog to roll out a new onboarding flow to 10% of users.
 > 4. **Check GA** for any unexpected web traffic shifts post-launch.
 
-![](https://media.giphy.com/media/xT9IgG50Fb7Mi0prBC/giphy.gif)
+![Dashboard](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOHNheWZwZTlhdmtqeXN2NjB6d3FzbzQyMDI4ejczcW81ZXFhN3dlbSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/3orif97kZpzRgTdRCM/giphy.gif)
 
 
 ### Key Takeaways

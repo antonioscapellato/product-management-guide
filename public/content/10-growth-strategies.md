@@ -24,7 +24,7 @@
 > 
 > - **Invite friends** → both get free space → they invite more friends → viral user growth.
 
-![](https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif)
+![Growth](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZW92OHY5bmx6Z2JuM3lpaHFlMmtjaWR5aTAxY2ZmNzJnd3dqNmFjcyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/rsANkiygv0Jpyn7mFC/giphy.gif)
 
 
 ## 2. Virality, Engagement & Retention Tactics
@@ -47,9 +47,6 @@
 > 
 > TikTok's "For You" feed uses machine learning–powered recommendations to boost session length (engagement) and Day 7 retention.
 > 
-
-![](https://media.giphy.com/media/3o6ZsYk6XomQjEvSea/giphy.gif)
-
 
 ## 3. Monetization: Pricing, Upsells & Churn Reduction
 
@@ -85,9 +82,6 @@
 > 
 > A SaaS platform identifies accounts with <5 logins/month and sends a "Need help?" email offering a free training session, reducing churn by 15%.
 > 
-
-![](https://media.giphy.com/media/xT9IgG50Fb7Mi0prBC/giphy.gif)
-
 
 ### Key Takeaways
 

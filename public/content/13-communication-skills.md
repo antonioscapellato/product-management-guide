@@ -22,8 +22,6 @@
 > To get Legal to fast-track a new API contract, a PM shared user quotes highlighting lost deals, then proposed a 2-week pilot with limited scope to minimize compliance risk.
 > 
 
-![](https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif)
-
 
 ## 2. Presentation Skills: Story-Telling with Data
 
@@ -49,8 +47,6 @@
 > 2. **Chart:** Simple bar showing drop-off rates by step.
 > 3. **Insight:** "Users cite 'too many fields' as the pain point."
 > 4. **Action:** "We propose removing 2 non-critical fields."
-
-![](https://media.giphy.com/media/xT9IgG50Fb7Mi0prBC/giphy.gif)
 
 
 ## 3. Negotiation & Conflict Resolution
@@ -82,8 +78,6 @@
 > Engineering wants more specs; Design feels over-scrutinized.
 > 
 > - **Action:** Organize a joint sketch session: design walks through mockups, engineer annotates constraints, PM mediates scope trade-offs on the spot.
-
-![](https://media.giphy.com/media/3o6ZsYk6XomQjEvSea/giphy.gif)
 
 
 ### Key Takeaways

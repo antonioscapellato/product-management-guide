@@ -19,7 +19,7 @@
 >     - **Q4 2025** → Deliverable: "Localized Onboarding Flow"
 >     - **Q1 2026** → Deliverable: "International Pricing Engine"
 
-![](https://media.giphy.com/media/l0K4nU4tBg0HMsy7y/giphy.gif)
+![progression](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExajdoaHdxNzB0OXdjN3A2emR0M200aWI0Z2M3MzJxbnlmYjI2cnhldCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/cge9nG7e7wKWbMm9cY/giphy.gif)
 
 
 ## 2. Using Roadmaps to Align Stakeholders
@@ -38,7 +38,7 @@
 > Tip: Keep the roadmap flexible—use placeholders ("TBD feature") rather than fixed dates when uncertain.
 > 
 
-![](https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif)
+![coordinated teamwork](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNnM5a3ljNW4xbTRncTE5c3pycG12cTNocnl5eGd5M2F0ODFjZTVuaSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/UsUxbwVjU0QwHDrsCO/giphy.gif)
 
 
 ## 3. Roadmapping Tools
@@ -57,7 +57,7 @@
 > 3. **Break Down Deliverables** into epics & stories in Jira.
 > 4. **Track Progress** on a shared Trello board for cross-functional visibility.
 
-![](https://media.giphy.com/media/xT9IgG50Fb7Mi0prBC/giphy.gif)
+![Roadmap](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZHBmYjA4cGZzNm5uaWp5dWNmM2hpcHZxODZrZWYwNHd2bGt3dDcxZCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/xUySTOigOUHucl3rfW/giphy.gif)
 
 
 ### Key Takeaways

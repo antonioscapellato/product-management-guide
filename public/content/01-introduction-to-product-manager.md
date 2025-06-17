@@ -24,7 +24,7 @@ A Product Manager (PM) is the "CEO of the product"—responsible for defining th
 > At Spotify, the PM for "Discover Weekly" combined data-science insights with user interviews to define success metrics (skip rate ≤20%, weekly active listeners ≥10M), then coordinated engineering sprints to deliver the first prototype in 3 months.
 > 
 
-![](https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif)
+![Users need](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbGl5bGZiZjg5am5sMDRmcXczdDFjZG41dDB0NDYxemt5b3Y1N3F3MCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/cil46PYppfoBrrXdaJ/giphy.gif)
 
 ## 2. Key Stakeholders & Cross-Functional Partnerships
 
@@ -69,7 +69,7 @@ A Product Manager (PM) is the "CEO of the product"—responsible for defining th
     - Evaluate declining usage; plan deprecation.
     - **Example:** Phasing out an underused "social feed" to focus on chat features.
 
-![](https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif)
+![roadmap](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbGl5bGZiZjg5am5sMDRmcXczdDFjZG41dDB0NDYxemt5b3Y1N3F3MCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/bhXFzLsmeApomI0uFf/giphy.gif)
 
 ### Key Takeaways
 

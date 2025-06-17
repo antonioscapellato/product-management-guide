@@ -11,7 +11,7 @@
 > **Example:**  
 > A mobile app team uses **Scrum** for feature releases, **Kanban** for bug fixes and urgent patches, and transitions to **Scrumban** as they scale to balance new work with maintenance.
 
-![Agile GIF](https://media.giphy.com/media/l1J9JzBB9r3hUe4k4/giphy.gif)
+![Agile GIF](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNDlnejd2OGR3empwMHRsZzg0ZXJxMHRsYm1vM2Fhc3VoczVxZjZjZyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/h8y265b9iKtzKT0pDj/giphy.gif)
 
 
 ## 2. Writing Effective User Stories & Acceptance Criteria  
@@ -53,7 +53,7 @@ Then \[expected result].
 > 2. Given I set a priority, when I view the backlog list, then items display with colored priority tags.  
 > 3. Given no priority is set, when I hover over an item, then I see “Priority: Unassigned.”
 
-![User Story GIF](https://media.giphy.com/media/3ohhwIQO3ZbELHpR5W/giphy.gif)
+![User Story GIF](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaGR6djAzZHQybm1mcmUyd2dncDZvMmhsMmU2dnQxbmVwOWQxem95aCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/5lAb176XjNAK4/giphy.gif)
 
 ## 3. Backlog Grooming & Sprint Planning  
 
@@ -75,7 +75,7 @@ Then \[expected result].
 > **Example Sprint Goal:**  
 > “Enable users to filter transaction history by date range.”
 
-![Sprint Planning GIF](https://media.giphy.com/media/26tOY0MEzNazE4I4U/giphy.gif)
+![Sprint Planning GIF](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYXJjcG9iY2IybWhzZTNzbnphdnkwZGJqdjh4d2Fta3RnNmhyc253MyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/usz0fqhUiVxSs6IUKB/giphy.gif)
 
 
 ### Key Takeaways  

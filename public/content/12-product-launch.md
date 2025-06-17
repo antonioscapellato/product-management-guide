@@ -17,7 +17,7 @@
 > "FitLife delivers personalized workouts anytime, anywhere—for just \$19.99/month, with your first week on us."
 > 
 
-![](https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif)
+![Strategic Marketing](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYmdnNHVybG5razNod28xeW9vMm1qajhrY2FxMml2a3FjMGdoMGhsYSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/443HIo7lNM4IZYxc7R/giphy.gif)
 
 ### Value Proposition Canvas
 
@@ -44,9 +44,6 @@
 > ```
 > 
 
-![](https://media.giphy.com/media/xT9IgG50Fb7Mi0prBC/giphy.gif)
-
-
 ## 2. Launch Planning & Product Evangelism
 
 ### Launch Planning Steps
@@ -72,8 +69,6 @@
     - Thought leadership: Guest blog posts, webinars
     - Community: Early-adopter forums, Slack/Discord groups
     - Partnerships: Co-promote with influencers or complementary brands
-
-![](https://media.giphy.com/media/l0HUpt2s9Pclgt9Vm/giphy.gif)
 
 
 ## 3. Channel Selection & Pricing Experiments
@@ -106,8 +101,6 @@
 > 
 > Run a two-week A/B test where Group A sees only monthly pricing, Group B sees both monthly and annual. Measure Lift in annual plan sign-ups.
 > 
-
-![](https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif)
 
 
 ### Key Takeaways

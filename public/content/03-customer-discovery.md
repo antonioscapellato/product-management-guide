@@ -15,7 +15,7 @@
 > - **Qualitative:** Watching users struggle to find "Add to Cart" in a prototype, then probing "Why did you click here?"
 > - **Quantitative:** Analyzing analytics to discover that 60% of users drop off on the payment screen.
 
-![](https://media.giphy.com/media/3o7aCVroyZqR7XBEiE/giphy.gif)
+![understanding user actions](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMjZiNmxmZGNobnFndmNmeDNic3dzbDhuYmpjMG5iOWlkajc1eGQ5dSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/wJu6IGWA1N1q4nWy0Z/giphy.gif)
 
 
 ## 2. User Interviews, Surveys, and Ethnography
@@ -83,7 +83,7 @@
 > 4. **Confirmation Email:** Reinforces value ("You'll never miss tax deadlines!").
 > 5. **Dashboard Visit:** Brenda sees projected tax savings graph.
 
-![](https://media.giphy.com/media/5xtDarqlsEW8N1I5pKQ/giphy.gif)
+![User persona and journey](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdGk5dml3ZXAzb2NtM20wZ2dtM2ZqdjVjaHk4d3UwaXk5cm4yMGMxeSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/3ohuPE7NrDxKjIZM7m/giphy.gif)
 
 
 ### Key Takeaways

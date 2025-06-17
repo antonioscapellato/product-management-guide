@@ -19,7 +19,7 @@
     - **Best Practices:** Co-create sales enablement decks; run "lunch & learn" sessions each quarter
     - **Example:** PM + sales rep role-play a demo and refine the pitch based on real Q&A
 
-![](https://media.giphy.com/media/3o7TKtnuHOHHUjR38Y/giphy.gif)
+![Collaboration](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExamlhbHdhcTNyZXd5YmI4MTlzdG53bmVnbjd6bm05YWd5MmowOGdwYiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/0Av9l0VIc01y1isrDw/giphy.gif)
 
 
 ## 2. Communication Cadences
@@ -36,8 +36,6 @@
 > 1. What I did yesterday
 > 2. What I'm doing today
 > 3. Any blockers
-
-![](https://media.giphy.com/media/l0MYzTrt1rM0X9xWw/giphy.gif)
 
 
 ## 3. Managing Risks, Dependencies & Blockers
@@ -65,8 +63,6 @@
 > 1. Developer flags "Blocked" on ticket due to missing API spec
 > 2. PM schedules 15-min sync with backend lead same day
 > 3. Spec delivered, ticket moves back to "In Progress"
-
-![](https://media.giphy.com/media/l0HlPjezGYgfz0M3i/giphy.gif)
 
 
 ### Key Takeaways

@@ -22,8 +22,6 @@
 > "Based on my 5 years at SaaS B2B startups and a benchmark of \$130–150 K for Senior PMs in Berlin, I'd like base of €140 K, a 10% annual bonus, and 0.2% RSU with a standard 4 year vesting."
 > 
 
-![](https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif)
-
 
 ## 2. Effective First 90 Days: Stakeholder Mapping, Quick Wins & Cadence Setting
 
@@ -71,8 +69,6 @@
 
 > Tip: Block 1 hour per week for reading or community participation to stay current and expand your network.
 > 
-
-![](https://media.giphy.com/media/3o6ZsYk6XomQjEvSea/giphy.gif)
 
 
 ### Key Takeaways

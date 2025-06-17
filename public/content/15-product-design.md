@@ -86,12 +86,6 @@
 3. **Iterate:** Focus on weakest areas per cycle (e.g., improve market sizing speed, strengthen technical explanations).
 4. **Track Progress:** Maintain a simple spreadsheet of drills, scores, and action items.
 
-> GIF for Energy:
-> 
-> 
-> ![](https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif)
-> 
-
 
 ### Key Takeaways
 

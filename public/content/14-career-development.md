@@ -17,8 +17,6 @@
 > - **Actions:** Launched personalized "Discover Weekly" playlists in 3 sprints.
 > - **Impact:** Day 7 retention rose to 45% (+50%), contributing to a 12% lift in subscription conversions.
 
-![](https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif)
-
 
 ## 2. Structuring a PM Resume: Impact-Driven Bullet Points
 
@@ -38,8 +36,6 @@
     - Consistent font & clear hierarchy (bold action verbs)
     - No generic buzzwords—focus on unique contributions
 
-![](https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif)
-
 
 ## 3. Personal Branding: LinkedIn, GitHub & Blogs
 
@@ -55,12 +51,6 @@
     - Medium or personal blog: 1 post/quarter on PM frameworks, lessons learned
     - Example topics: "How to Run Your First A/B Test," "Using HEART to Measure UX"
     - Promote via Twitter/LinkedIn and relevant communities (Product Coalition, Mind the Product)
-
-> Branding GIF:
-> 
-> 
-> ![](https://media.giphy.com/media/l0HUpt2s9Pclgt9Vm/giphy.gif)
-> 
 
 
 ### Key Takeaways

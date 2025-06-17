@@ -22,7 +22,7 @@ so I can [desired outcome].
 > When **I'm stuck in traffic**, I want **an engaging podcast**, so I can **make my commute feel worthwhile**.
 > 
 
-![](https://media.giphy.com/media/3oEjHP8ELRNNlnlLGM/giphy.gif)
+![Idea moment](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMXM1Mm83cWhwbjZyeTF5ZHEyb2V2b3VhbWpmZ282bHdvOTh0MGRyYiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/hAudXTEX1tKI34vz7i/giphy.gif)
 
 
 ## 2. HEART Framework for UX Metrics
@@ -44,9 +44,6 @@ Developed by Google to measure user experience across five dimensions:
 > 
 > - **Adoption:** 40% of new users create ≥1 note within first session
 > - **Happiness:** CSAT ≥ 4/5 after in-app tutorial
-
-![](https://media.giphy.com/media/l0HUpt2s9Pclgt9Vm/giphy.gif)
-
 
 ## 3. North Star Metric & Pirate Metrics (AARRR)
 
@@ -83,9 +80,6 @@ Developed by Google to measure user experience across five dimensions:
 > 3. **Retention:** Day 7 retention of 45%
 > 4. **Revenue:** 10% convert to Premium at \$9.99/mo
 > 5. **Referral:** 5% of Premium users send invite code
-
-![](https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif)
-
 
 ### Key Takeaways
 
